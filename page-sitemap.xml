@@ -2,7 +2,10 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>/</loc>
-		<lastmod>2025-02-05T21:51:47+00:00</lastmod>
+		<lastmod>2025-02-06T18:16:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2025/02/authorized-dealer.jpeg</image:loc>
+		</image:image>
 		<image:image>
 			<image:loc>/wp-content/uploads/2024/11/40-ft-container-1-1024x580.webp</image:loc>
 		</image:image>
@@ -20,84 +23,84 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>/passaic/</loc>
+		<lastmod>2025-02-07T01:17:47+00:00</lastmod>
+	</url>
+	<url>
 		<loc>/perth-amboy/</loc>
-		<lastmod>2025-02-06T02:49:28+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:47+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/camden/</loc>
-		<lastmod>2025-02-06T02:49:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/passaic/</loc>
-		<lastmod>2025-02-06T02:49:27+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/elizabeth/</loc>
-		<lastmod>2025-02-06T02:49:26+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/clifton/</loc>
-		<lastmod>2025-02-06T02:49:26+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/trenton/</loc>
-		<lastmod>2025-02-06T02:49:26+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/jersey-city/</loc>
-		<lastmod>2025-02-06T02:49:25+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:46+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/paterson/</loc>
-		<lastmod>2025-02-06T02:49:25+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:45+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/elizabeth/</loc>
+		<lastmod>2025-02-07T01:17:45+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/howell-township/</loc>
-		<lastmod>2025-02-06T02:49:25+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:45+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/plainfield/</loc>
-		<lastmod>2025-02-06T02:49:24+00:00</lastmod>
+		<loc>/jersey-city/</loc>
+		<lastmod>2025-02-07T01:17:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/burlington-township/</loc>
-		<lastmod>2025-02-06T02:49:24+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/west-new-york/</loc>
-		<lastmod>2025-02-06T02:49:23+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/orange/</loc>
-		<lastmod>2025-02-06T02:49:23+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:44+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/vineland/</loc>
-		<lastmod>2025-02-06T02:49:23+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:43+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/plainfield/</loc>
+		<lastmod>2025-02-07T01:17:43+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hoboken/</loc>
-		<lastmod>2025-02-06T02:49:22+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/union-city/</loc>
-		<lastmod>2025-02-06T02:49:22+00:00</lastmod>
+		<loc>/west-new-york/</loc>
+		<lastmod>2025-02-07T01:17:42+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/east-orange/</loc>
-		<lastmod>2025-02-06T02:49:21+00:00</lastmod>
-	</url>
-	<url>
-		<loc>/bayonne/</loc>
-		<lastmod>2025-02-06T02:49:21+00:00</lastmod>
+		<loc>/orange/</loc>
+		<lastmod>2025-02-07T01:17:42+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/hackensack/</loc>
-		<lastmod>2025-02-06T02:49:21+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/union-city/</loc>
+		<lastmod>2025-02-07T01:17:41+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/east-orange/</loc>
+		<lastmod>2025-02-07T01:17:40+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/bayonne/</loc>
+		<lastmod>2025-02-07T01:17:40+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/newark/</loc>
-		<lastmod>2025-02-06T02:49:20+00:00</lastmod>
+		<lastmod>2025-02-07T01:17:39+00:00</lastmod>
 	</url>
 	<url>
 		<loc>/rentals/</loc>
